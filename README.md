@@ -1,2 +1,2 @@
 # javascript
-javascript projects
+A simple bmi calcualtor created by using javascript
